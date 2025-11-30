@@ -1,5 +1,6 @@
 {
   "readableLineLength": false,
   "attachmentFolderPath": "./attachments",
-  "spellcheck": false
+  "spellcheck": false,
+  "newLinkFormat": "relative"
 }
