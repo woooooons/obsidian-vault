@@ -31,10 +31,14 @@
             "id": "ff745b9f9b72fa15",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -110,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Obsidian + Quartz 블로그 만들기 의 백링크"
             }
           },
           {
@@ -185,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,12 +202,13 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "ff745b9f9b72fa15",
+  "active": "478d63138a8091c8",
   "lastOpenFiles": [
+    "index.md",
+    "새 폴더",
     "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
     "deploy.yml",
     "물리학/양자역학-기초.md",
-    "index.md",
     "IT/가이드",
     "IT",
     "물리학",
