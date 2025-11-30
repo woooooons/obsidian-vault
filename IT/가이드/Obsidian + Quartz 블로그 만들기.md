@@ -102,23 +102,13 @@ Obsidian 화면에서 작업
 3. 내용 작성:
 
 ```markdown
+### ㅎㅇㅎㅇ
+공부하면서 배운 것들을 기록하고 정리하는 블로그입니다.
+지식을 쌓아가는 여정을 공유합니다.
+
 ---
-title: 홈
----
 
-# 나의 학습 블로그에 오신 것을 환영합니다
-
-이곳에서 물리학, 수학, 화학, IT 관련 내용을 공유합니다.
-
-## 최근 글
-- [[물리학/양자역학-기초]]
-- [[수학/미적분학]]
-
-## 카테고리
-- 물리학
-- 수학
-- 화학
-- IT
+*이 블로그는 Obsidian과 Quartz로 만들어졌습니다.*
 ```
 
 ### 3-4. 첫 글 작성
@@ -633,6 +623,11 @@ export const defaultContentPageLayout: PageLayout = {
 
 ## 문제 해결
 
+### 탐색기에 content랑 목차 중복
+![](attachments/스크린샷%202025-11-30%20173618.png)
+quartz.config.ts 에 
+   ignorePatterns: ["private", "templates", ".obsidian", "README.md", "CODE_OF_CONDUCT.md", "LICENSE", "content"], 
+ 
 ### 옵시디언 clone 실패시 
 private -> public
 

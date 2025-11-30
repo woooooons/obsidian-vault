@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Obsidian + Quartz 블로그 만들기"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 의 백링크"
+              "title": "Obsidian + Quartz 블로그 만들기 의 백링크"
             }
           },
           {
@@ -204,9 +204,11 @@
   },
   "active": "478d63138a8091c8",
   "lastOpenFiles": [
-    "물리학/용어정리.md",
+    "IT/가이드/attachments/스크린샷 2025-11-30 173618.png",
+    "IT/가이드/attachments",
     "index.md",
     "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
+    "물리학/용어정리.md",
     "물리학/관계.md",
     "물리학/양자역학/기초.md",
     "물리학/양자역학/총정리.md",
