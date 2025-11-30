@@ -629,6 +629,9 @@ export const defaultContentPageLayout: PageLayout = {
 
 ## 문제 해결
 
+### 옵시디언 clone 실패시 
+private -> public
+
 ### 블로그가 안 보이고 RSS 피드만 보일 때
 
 **원인:** `content/index.md` 파일이 없음
