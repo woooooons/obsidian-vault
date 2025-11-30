@@ -624,7 +624,7 @@ export const defaultContentPageLayout: PageLayout = {
 ## 문제 해결
 
 ### 탐색기에 content랑 목차 중복
-![](attachments/스크린샷%202025-11-30%20173618.png)
+![[attachments/스크린샷 2025-11-30 173618.png]]
 quartz.config.ts 에 
    ignorePatterns: ["private", "templates", ".obsidian", "README.md", "CODE_OF_CONDUCT.md", "LICENSE", "content"], 
  
