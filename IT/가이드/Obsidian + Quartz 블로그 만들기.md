@@ -149,7 +149,7 @@ $$
 
 ## 코드 예시
 
-```python
+
 import numpy as np
 
 def wave_function(x, t):
@@ -162,13 +162,11 @@ def wave_function(x, t):
 psi = wave_function(1.0, 0.0)
 probability = np.abs(psi)**2
 print(f"확률 밀도: {probability}")
-````
 
 ## 참고 자료
 
 - [[상대성이론]] - 관련 글 링크
 - [[양자장론]]
-
 ````
 
 ### 3-5. 더 많은 글 작성 (선택)
