@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Obsidian + Quartz 블로그 만들기"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 의 백링크"
+              "title": "Obsidian + Quartz 블로그 만들기 의 백링크"
             }
           },
           {
@@ -202,10 +202,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "ece6e30dd88bd5a7",
+  "active": "478d63138a8091c8",
   "lastOpenFiles": [
-    "IT/가이드/가이드.md",
     "index.md",
+    "IT/가이드/가이드.md",
     "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
     "물리학/양자역학-기초.md",
     "새 폴더",

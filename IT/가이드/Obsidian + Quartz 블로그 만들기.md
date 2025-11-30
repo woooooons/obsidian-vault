@@ -34,10 +34,14 @@ https://obsidian.md/ 여기서 옵시디언 설치
 2. **Files & Links 탭:**
     - Default location for new attachments: `In subfolder under current folder`
     - Subfolder name: `attachments`
+    - New link format: `Relative path to file` 선택
+	    - `[양자역학 기초](물리학/양자역학-기초.md)` 이런식으로 링크 생김. 블로그의 링크 싱크 맞추기 위함.
+    - Use [[Wikilinks]]: OFF (Markdown 링크 사용)
 3. **Appearance 탭:**
     - Base color scheme: 원하는 테마 선택
     - 한글 폰트 설정 가능
     - 한글 설정 가능
+
 
 ---
 
