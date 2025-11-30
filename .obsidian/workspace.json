@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "물리학/용어정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "용어정리"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
+                "file": "물리학/용어정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Obsidian + Quartz 블로그 만들기 의 백링크"
+              "title": "용어정리 의 백링크"
             }
           },
           {
@@ -202,12 +202,17 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "478d63138a8091c8",
+  "active": "ff745b9f9b72fa15",
   "lastOpenFiles": [
+    "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
+    "물리학/용어정리.md",
+    "물리학/관계.md",
+    "물리학/양자역학/기초.md",
+    "물리학/양자역학/총정리.md",
+    "물리학/양자역학",
+    "물리학/자기장.md",
     "index.md",
     "IT/가이드/가이드.md",
-    "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
-    "물리학/양자역학-기초.md",
     "새 폴더",
     "deploy.yml",
     "IT/가이드",
