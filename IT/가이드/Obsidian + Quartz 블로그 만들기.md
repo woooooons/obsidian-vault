@@ -96,6 +96,7 @@ Obsidian 화면에서 작업
 ### 3-3. 홈페이지 작성 (필수!)
 
 **중요:** 루트에 `index.md` 파일을 반드시 만들어야 합니다!
+하위 폴더에도 index가 있어야함!
 
 1. 루트에서 "New note" 클릭
 2. 파일 이름: `index`
@@ -325,7 +326,7 @@ const config: QuartzConfig = {
     },
     locale: "ko-KR",  // 한국어 설정
     baseUrl: "username.github.io",  // ⚠️ 본인 GitHub 주소로 변경!
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns:  ["private", "templates", "README.md", "CODE_OF_CONDUCT.md", "LICENSE"], // 라이센스랑 저 이상한 CODE 파일이 홈에 떠서 없애줌.
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
@@ -386,9 +387,9 @@ on:
   push:
     branches:
       - main
-  # obsidian-vault 저장소가 업데이트되면 자동으로 빌드
   repository_dispatch:
     types: [content-update]
+  workflow_dispatch:
  
 permissions:
   contents: read
@@ -413,13 +414,16 @@ jobs:
           git clone https://github.com/username/obsidian-vault.git temp-vault
           rm -rf content
           mkdir -p content
-          cp -r temp-vault/* content/ 2>/dev/null || true
-          cp -r temp-vault/.* content/ 2>/dev/null || true
+          
+          # .git, .github, node_modules 등 제외하고 복사
+          rsync -av --exclude='.git' --exclude='.github' --exclude='node_modules' --exclude='.obsidian' temp-vault/ content/
+          
           rm -rf temp-vault
-          rm -rf content/.git
       
-      - name: List content directory
-        run: ls -la content/
+      - name: List content directory structure
+        run: |
+          echo "=== Content directory structure ==="
+          find content -type f -o -type d | head -30
       
       - uses: actions/setup-node@v4
         with:
@@ -432,7 +436,9 @@ jobs:
         run: npx quartz build
       
       - name: List public directory contents
-        run: ls -la public/
+        run: |
+          echo "=== Public directory structure ==="
+          find public -type f -o -type d | head -50
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -621,11 +627,16 @@ export const defaultContentPageLayout: PageLayout = {
 
 ## 문제 해결
 
+### 이미지 안보일때
+config에 
+```
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+```
+옵시디언에도 
+![[Pasted image 20251201082419.png]]
 ### 탐색기에 content랑 목차 중복
 ![[스크린샷 2025-11-30 173618.png]]
-quartz.config.ts 에 
-   ignorePatterns: ["private", "templates", ".obsidian", "README.md", "CODE_OF_CONDUCT.md", "LICENSE", "content"], 
- 
+각 옵시디언 폴더마다 index.md가 필요
 ### 옵시디언 clone 실패시 
 private -> public
 
