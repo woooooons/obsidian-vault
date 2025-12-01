@@ -573,6 +573,12 @@ def hello():
 
 ## 커스터마이징
 
+### 댓글 추가
+1. github repo에 setting -> general -> Features 에 Discussions 체크
+2. https://giscus.app/ko 이 github에 giscus 설치하기. (select repo)
+3. 위의 2개를 햇다면 저장소 input 칸에 입력하기.
+4. quartz.layout.ts 에 input 칸에 입력해서 나온 데이터 repo, repoId, category, categoryId 입력하기.
+
 ### 색상 변경
 
 `quartz/styles/custom.scss` 파일 생성:
@@ -728,3 +734,4 @@ git push
 - **GitHub Pages 문서:** https://docs.github.com/pages
 - **KaTeX 수식 문법:** https://katex.org/docs/supported.html
 - **Markdown 문법:** https://www.markdownguide.org/
+- **댓글기능추가**: https://anpigon.pages.dev/%F0%9F%A7%B0-%EC%83%9D%EC%82%B0%EC%84%B1-%EB%8F%84%EA%B5%AC/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-Obsidian/Quartz/Quartz-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0
