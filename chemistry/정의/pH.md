@@ -1,10 +1,9 @@
 ---
-title: chemistry
+title: pH
 date: 2025-12-01
 tags:
   - chemistry
   - 정의
-  - PH
 ---
 ### **pH 정의**
 

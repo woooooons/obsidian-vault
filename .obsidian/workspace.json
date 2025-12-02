@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/자격증/자격증목록.md",
+                "file": "physics/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자격증목록"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/자격증/자격증목록.md",
+                "file": "physics/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "자격증목록 의 백링크"
+              "title": "index 의 백링크"
             }
           },
           {
@@ -184,19 +184,19 @@
   },
   "active": "e7001809154148d5",
   "lastOpenFiles": [
-    "physics/index.md",
-    "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
     "physics/자기장.md",
     "physics/용어정리.md",
-    "physics/양자역학/총정리.md",
     "physics/양자역학/기초.md",
+    "physics/양자역학/총정리.md",
     "physics/관계/전류와 자기.md",
-    "chemistry/용어정리.md",
-    "chemistry/index.md",
-    "chemistry/정의/pH.md",
-    "chemistry/정의/산-염기.md",
     "personal/자격증/자격증목록.md",
     "IT/index.md",
+    "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
+    "chemistry/정의/산-염기.md",
+    "chemistry/정의/pH.md",
+    "chemistry/용어정리.md",
+    "physics/index.md",
+    "chemistry/index.md",
     "personal/자격증",
     "personal",
     "index.md",
