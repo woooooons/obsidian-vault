@@ -1,3 +1,10 @@
+---
+title: chemistry
+date: 2025-12-01
+tags:
+  - chemistry
+  - 정의
+---
 ### **pH 정의**
 
 - **pH = -log[H⁺]** = -log[H₃O⁺]

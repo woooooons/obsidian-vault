@@ -691,9 +691,14 @@ npm install
 │   ├── index.md             # 홈페이지 (필수!)
 │   ├── 물리학/
 │   │   └── 양자역학-기초.md
-│   ├── 수학/
+│   │   └── index.md
 │   ├── 화학/
+│   │   └── index.md
 │   └── IT/
+│       └── index.md
+│       └── 가이드
+│         └── index.md
+│         └── Obsidian + Quartz 블로그 만들기.md
 │
 └── quartz/                   # Quartz 프로젝트
     ├── .github/

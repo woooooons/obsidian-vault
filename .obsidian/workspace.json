@@ -33,10 +33,14 @@
             "id": "ff745b9f9b72fa15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "personal/자격증/자격증목록.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "자격증목록"
             }
           }
         ]
@@ -71,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:정의",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +83,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -112,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personal/자격증/자격증목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "자격증목록 의 백링크"
             }
           },
           {
@@ -202,31 +207,33 @@
   "active": "ff745b9f9b72fa15",
   "lastOpenFiles": [
     "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
-    "index.md",
-    "물리학/양자역학/기초.md",
-    "물리학/용어정리.md",
-    "물리학/index.md",
-    "화학/index.md",
-    "물리학/관계/전류와 자기의 관계.md",
-    "화학/정의/산-염기.md",
-    "화학/정의/pH.md",
-    "화학/관계/산-염기.md",
-    "화학/용어정리.md",
-    "물리학/양자역학/총정리.md",
-    "화학/정의",
-    "화학/관계",
-    "물리학/관계",
+    "personal/자격증/자격증목록.md",
     "IT/index.md",
-    "화학",
+    "personal/자격증",
+    "personal",
+    "index.md",
+    "physics/index.md",
+    "physics/자기장.md",
+    "physics/용어정리.md",
+    "physics/관계/전류와 자기의 관계.md",
+    "chemistry/용어정리.md",
+    "physics/양자역학/총정리.md",
+    "physics/양자역학/기초.md",
+    "chemistry/index.md",
+    "chemistry/정의/pH.md",
+    "chemistry/정의/산-염기.md",
+    "화학/관계/산-염기.md",
+    "chemistry/정의",
+    "화학/관계",
+    "physics/관계",
+    "chemistry",
     "IT/가이드/attachments/Pasted image 20251201082419.png",
     "blog/IT/가이드/Obsidian + Quartz 블로그 만들기.md",
-    "물리학/자기장.md",
-    "물리학/양자역학",
-    "물리학",
+    "physics/양자역학",
+    "physics",
     "IT/가이드/attachments/스크린샷 2025-11-30 173618.png",
     "IT/가이드/attachments",
     "IT/가이드",
-    "IT",
     "blog/index.md",
     "blog/물리학/index.md",
     "blog/IT/index.md",
@@ -235,7 +242,6 @@
     "blog/물리학/양자역학/총정리.md",
     "blog/물리학/양자역학/기초.md",
     "blog/물리학/자기장.md",
-    "blog/물리학/양자역학",
     "blog/IT/가이드/attachments/스크린샷 2025-11-30 173618.png",
     "IT/가이드/가이드.md",
     "Welcome.md"
