@@ -96,7 +96,6 @@ Obsidian 화면에서 작업
 ### 3-3. 홈페이지 작성 (필수!)
 
 **중요:** 루트에 `index.md` 파일을 반드시 만들어야 합니다!
-하위 폴더에도 index가 있어야함!
 
 1. 루트에서 "New note" 클릭
 2. 파일 이름: `index`
@@ -640,9 +639,7 @@ config에
 ```
 옵시디언에도 
 ![[Pasted image 20251201082419.png]]
-### 탐색기에 content랑 목차 중복
-![[스크린샷 2025-11-30 173618.png]]
-각 옵시디언 폴더마다 index.md가 필요
+
 ### 옵시디언 clone 실패시 
 private -> public
 
@@ -691,13 +688,9 @@ npm install
 │   ├── index.md             # 홈페이지 (필수!)
 │   ├── 물리학/
 │   │   └── 양자역학-기초.md
-│   │   └── index.md
 │   ├── 화학/
-│   │   └── index.md
 │   └── IT/
-│       └── index.md
 │       └── 가이드
-│         └── index.md
 │         └── Obsidian + Quartz 블로그 만들기.md
 │
 └── quartz/                   # Quartz 프로젝트

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/자기장.md",
+                "file": "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자기장"
+              "title": "Obsidian + Quartz 블로그 만들기"
             }
           }
         ]
@@ -94,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/자기장.md",
-                "collapseAll": false,
+                "file": "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "자기장 의 백링크"
+              "title": "Obsidian + Quartz 블로그 만들기 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Obsidian + Quartz 블로그 만들기 의 나가는 링크"
             }
           },
           {
@@ -156,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Obsidian + Quartz 블로그 만들기 의 개요"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,18 +183,18 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "ece6e30dd88bd5a7",
+  "active": "d3b75e198ba28084",
   "lastOpenFiles": [
-    "IT/index.md",
+    "physics/용어정리.md",
+    "physics/양자역학/총정리.md",
+    "personal/자격증/자격증목록.md",
+    "physics/관계/전류와 자기.md",
+    "physics/양자역학/기초.md",
     "physics/자기장.md",
+    "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
+    "IT/index.md",
     "physics/index.md",
     "index.md",
-    "physics/용어정리.md",
-    "physics/양자역학/기초.md",
-    "physics/양자역학/총정리.md",
-    "physics/관계/전류와 자기.md",
-    "personal/자격증/자격증목록.md",
-    "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
     "chemistry/정의/산-염기.md",
     "chemistry/정의/pH.md",
     "chemistry/용어정리.md",
