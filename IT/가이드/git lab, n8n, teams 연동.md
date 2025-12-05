@@ -289,5 +289,30 @@ HTTP Request Body를 MessageCard JSON으로 변경하면 가능
     - HTTP Request Body에 `text: {{$json.text}}`
 
 
+## 참고 링크
+
+- GitLab Webhook 공식 문서  
+https://docs.gitlab.com/ee/user/project/integrations/webhooks.html  
+
+- n8n Webhook 노드  
+https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.webhook/  
+
+- n8n HTTP Request 노드  
+https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httpRequest/  
+
+- Microsoft Teams Incoming Webhook  
+https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook  
+
+- Microsoft Teams MessageCard 포맷  
+https://learn.microsoft.com/en-us/outlook/actionable-messages/message-card-reference  
+
+- n8n Docker 설치  
+https://docs.n8n.io/hosting/installation/docker/  
+
+- GitLab Webhook 이벤트 JSON 샘플  
+https://docs.gitlab.com/ee/user/project/integrations/webhook_events.html  
+
+- Teams 카드 미리보기 도구  
+https://adaptivecards.io/designer/
 
 
