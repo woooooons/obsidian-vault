@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/CS/필수 지식.md",
+                "file": "IT/가이드/git lab, n8n, teams 연동.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "필수 지식"
+              "title": "git lab, n8n, teams 연동"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/CS/필수 지식.md",
+                "file": "IT/가이드/git lab, n8n, teams 연동.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "필수 지식 의 개요"
+              "title": "git lab, n8n, teams 연동 의 개요"
             }
           }
         ],
@@ -185,19 +185,24 @@
   },
   "active": "e7001809154148d5",
   "lastOpenFiles": [
+    "IT/가이드/attachments/Pasted image 20251205104943.png",
+    "IT/가이드/attachments/Pasted image 20251205104901.png",
+    "IT/가이드/attachments/Pasted image 20251205104749.png",
+    "IT/가이드/attachments/Pasted image 20251205104745.png",
+    "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
+    "IT/가이드/git lab, n8n, teams 연동.md",
+    "IT/네트워크/라우팅.md",
+    "IT/CS/필수 지식.md",
     "IT/개발/클린코드/이론.md",
     "IT/개발/디자인패턴/TypeScript.md",
     "IT/개발/디자인패턴/Golang.md",
     "IT/개발/디자인패턴/이론.md",
     "IT/네트워크/IP.md",
-    "IT/네트워크/라우팅.md",
-    "IT/CS/필수 지식.md",
     "IT/개발/프로젝트/ERP/ERPnext.md",
     "IT/CS",
     "IT/개발/프로젝트/ERP",
     "IT/개발/프로젝트",
     "IT/네트워크",
-    "IT/가이드/Obsidian + Quartz 블로그 만들기.md",
     "index.md",
     "2025-11-30.md",
     "personal/자격증/자격증예정.md",
@@ -218,10 +223,8 @@
     "chemistry/index.md",
     "personal/자격증",
     "personal",
-    "화학/관계/산-염기.md",
     "chemistry/정의",
     "IT/가이드/attachments/Pasted image 20251201082419.png",
-    "blog/IT/가이드/Obsidian + Quartz 블로그 만들기.md",
     "IT/가이드/attachments/스크린샷 2025-11-30 173618.png",
     "blog/IT/가이드/attachments/스크린샷 2025-11-30 173618.png"
   ]
