@@ -122,8 +122,8 @@ Webhook 노드 뒤에 **Set 노드** 추가
 
 이벤트: {{ $json.body.object_kind }} 
 프로젝트: {{ $json.body.project.name }} 
-사용자: {{ $json.body.user_username }} 
-브랜치: {{ $json.body.project.ci_config_path }}  
+사용자: {{ $json.body.user.username }}
+브랜치: {{ $json.body.project.default_branch }}
 URL: {{ $json.body.project.http_url }}
 ```
 
