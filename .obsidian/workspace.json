@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/04_인프라·플랫폼/메시지/Kafka/Kafka 학습 가이드.md",
+                "file": "IT/04_인프라·플랫폼/메시지/Kafka/Zookeeper 설명.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kafka 학습 가이드"
+              "title": "Zookeeper 설명"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/지역/진주/음식.md",
+                "file": "IT/04_인프라·플랫폼/메시지/Kafka/Zookeeper 설명.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "음식 의 개요"
+              "title": "Zookeeper 설명 의 개요"
             }
           },
           {
@@ -194,14 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19519cf13aa89746",
+  "active": "fd6234212c779a65",
   "lastOpenFiles": [
+    "IT/04_인프라·플랫폼/메시지/Kafka/Kafka 학습 가이드.md",
+    "IT/04_인프라·플랫폼/메시지/Kafka/Zookeeper 설명.md",
+    "index.md",
     "IT/03_개발(프로그래밍)/백앤드/현대 애플리케이션 통신 방식.md",
     "IT/02_컴퓨터과학(CS)/네트워크/라우팅.md",
     "IT/01_가이드/Obsidian + Quartz 블로그 만들기.md",
     "IT/01_가이드/git lab, n8n, teams 연동.md",
     "IT/01_가이드/옵시디언 + GIT 연동.md",
-    "IT/04_인프라·플랫폼/메시지/Kafka/Kafka 학습 가이드.md",
     "personal/지역/진주/음식.md",
     "personal/자격증/자격증예정.md",
     "IT/02_컴퓨터과학(CS)/네트워크/IP.md",
@@ -227,7 +229,6 @@
     "IT/04_인프라·플랫폼/웹서버",
     "personal/지역/무주/음식.md",
     "personal/지역/청도/음식.md",
-    "index.md",
     "2025-12-06.md",
     "IT/01_가이드/attachments/Pasted image 20251205104943.png",
     "IT/01_가이드/attachments/Pasted image 20251205104901.png",
@@ -238,7 +239,6 @@
     "IT/03_개발(프로그래밍)/디자인패턴/Golang.md",
     "IT/03_개발(프로그래밍)/디자인패턴/이론.md",
     "IT/03_개발(프로그래밍)/프로젝트/ERP/ERPnext.md",
-    "2025-11-30.md",
     "IT/01_가이드/attachments/Pasted image 20251201082419.png",
     "IT/01_가이드/attachments/스크린샷 2025-11-30 173618.png",
     "blog/IT/가이드/attachments/스크린샷 2025-11-30 173618.png"
