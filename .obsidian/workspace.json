@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/지역/진주/음식.md",
+                "file": "IT/04_개발(프로그래밍)/백앤드/현대 애플리케이션 통신 방식.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "음식"
+              "title": "현대 애플리케이션 통신 방식"
             }
           }
         ]
@@ -196,9 +196,13 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
+    "personal/자격증/자격증목록.md",
+    "IT/04_개발(프로그래밍)/백앤드/현대 애플리케이션 통신 방식.md",
+    "IT/04_개발(프로그래밍)/백앤드",
+    "personal/자격증/자격증예정.md",
+    "personal/지역/진주/음식.md",
     "IT/02_컴퓨터과학(CS)/필수 지식.md",
     "IT/02_컴퓨터과학(CS)/컴퓨터구조.md",
-    "personal/자격증/자격증목록.md",
     "IT/01_가이드/옵시디언 + GIT 연동.md",
     "IT/01_가이드/git lab, n8n, teams 연동.md",
     "IT/01_가이드/Obsidian + Quartz 블로그 만들기.md",
@@ -216,14 +220,11 @@
     "IT/05_인프라·플랫폼/컨테이너/쿠버네티스",
     "IT/05_인프라·플랫폼/컨테이너",
     "IT/05_인프라·플랫폼/운영체제_실무",
-    "IT/05_인프라·플랫폼/운영체제_실무/리눅스",
     "IT/02_컴퓨터과학(CS)/자료구조.md",
     "personal/지역/무주/음식.md",
-    "personal/지역/진주/음식.md",
     "personal/지역/청도/음식.md",
     "index.md",
     "2025-12-06.md",
-    "personal/자격증/자격증예정.md",
     "IT/01_가이드/attachments/Pasted image 20251205104943.png",
     "IT/01_가이드/attachments/Pasted image 20251205104901.png",
     "IT/01_가이드/attachments/Pasted image 20251205104749.png",
