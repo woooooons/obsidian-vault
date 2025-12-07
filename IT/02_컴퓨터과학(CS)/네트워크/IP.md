@@ -3,7 +3,9 @@ title: ip
 date: 2025-12-03
 tags:
   - it
+  - CS
   - 네트워크
+  - IP
 ---
 # 네트워크 IP 주소 체계 완전 정리
 
