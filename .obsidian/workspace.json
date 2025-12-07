@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/01_가이드/옵시디언 + GIT 연동.md",
+                "file": "personal/지역/진주/음식.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "옵시디언 + GIT 연동"
+              "title": "음식"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/01_가이드/옵시디언 + GIT 연동.md",
+                "file": "personal/지역/진주/음식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "옵시디언 + GIT 연동 의 나가는 링크"
+              "title": "음식 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/01_가이드/옵시디언 + GIT 연동.md",
+                "file": "personal/지역/진주/음식.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "옵시디언 + GIT 연동 의 개요"
+              "title": "음식 의 개요"
             }
           },
           {
@@ -196,14 +196,16 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
+    "IT/02_컴퓨터과학(CS)/필수 지식.md",
+    "IT/02_컴퓨터과학(CS)/컴퓨터구조.md",
+    "personal/자격증/자격증목록.md",
+    "IT/01_가이드/옵시디언 + GIT 연동.md",
     "IT/01_가이드/git lab, n8n, teams 연동.md",
     "IT/01_가이드/Obsidian + Quartz 블로그 만들기.md",
-    "IT/01_가이드/옵시디언 + GIT 연동.md",
     "IT/01_가이드/attachments/Pasted image 20251207102905.png",
     "IT/01_가이드/attachments/Pasted image 20251207102555.png",
     "IT/01_가이드/attachments/Pasted image 20251207102554.png",
     "IT/02_컴퓨터과학(CS)/운영체제_이론.md",
-    "IT/02_컴퓨터과학(CS)/컴퓨터구조.md",
     "IT/02_컴퓨터과학(CS)/알고리즘.md",
     "IT/05_인프라·플랫폼/웹서버/Nginx",
     "IT/05_인프라·플랫폼/웹서버",
@@ -216,7 +218,6 @@
     "IT/05_인프라·플랫폼/운영체제_실무",
     "IT/05_인프라·플랫폼/운영체제_실무/리눅스",
     "IT/02_컴퓨터과학(CS)/자료구조.md",
-    "IT/02_컴퓨터과학(CS)/필수 지식.md",
     "personal/지역/무주/음식.md",
     "personal/지역/진주/음식.md",
     "personal/지역/청도/음식.md",
@@ -235,7 +236,6 @@
     "IT/03_네트워크/IP.md",
     "IT/04_개발(프로그래밍)/프로젝트/ERP/ERPnext.md",
     "2025-11-30.md",
-    "personal/자격증/자격증목록.md",
     "physics/용어정리.md",
     "physics/양자역학/총정리.md",
     "IT/01_가이드/attachments/Pasted image 20251201082419.png",
