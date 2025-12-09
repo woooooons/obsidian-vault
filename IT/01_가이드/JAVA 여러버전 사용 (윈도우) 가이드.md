@@ -30,8 +30,17 @@ set Path=%JAVA_HOME%\bin;%Path%
 echo Java 버전 activated.
 ```
 2. 스크립트 작성
+
+## STEP 3: 스크립트 실헹 및 확인
+
 ![[Pasted image 20251207153703.png]]
-3. 터미널에서 실행
+```
+# 버전 확인
+java -version
+
+# 스크립트 실행
+java17.bat
+```
 
 ## 참고 링크
 https://velog.io/@heyhighbyee/JDK-%EC%97%AC%EB%9F%AC-%EB%B2%84%EC%A0%84-%EC%84%A4%EC%B9%98%ED%95%98%EC%97%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
