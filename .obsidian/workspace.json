@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/05_유용한 사이트/한국.md",
+                "file": "IT/05_유용한 사이트/외국.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "한국"
+              "title": "외국"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
-    "IT/05_유용한 사이트/외국.md",
     "IT/05_유용한 사이트/한국.md",
+    "IT/05_유용한 사이트/외국.md",
     "IT/03_개발(프로그래밍)/백앤드/현대 애플리케이션 통신 방식.md",
     "IT/03_개발(프로그래밍)/프로젝트/ERP/ERPnext.md",
     "IT/03_개발(프로그래밍)/백앤드/Language/Go/기초/익명함수.md",
