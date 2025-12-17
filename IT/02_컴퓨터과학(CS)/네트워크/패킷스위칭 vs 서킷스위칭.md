@@ -74,6 +74,171 @@ tags:
 4. **전파 지연 (Propagation Delay)**
     - 신호가 물리적 매체를 통과하는 시간
 
+### Delay 원인과 대응 방법
+
+#### 1. 처리 지연 (Processing Delay) 대응 전략
+
+패킷 헤더 검사, 포워딩 결정, ACL/NAT/QoS 처리 시간
+
+**핵심 원인**
+- CPU 성능 부족
+    
+- 소프트웨어 기반 패킷 처리
+    
+- 과도한 기능 활성화 (ACL, DPI, IPS 등)
+
+**대응 방법**
+
+1. **고성능 라우터/스위치 사용**
+    
+    - ASIC / NPU 기반 장비 선택
+        
+    - 소프트웨어 라우터(PF, iptables)는 한계 명확
+        
+2. **Fast Path / Hardware Offloading 활성화**
+    
+    - Linux: XDP, DPDK
+        
+    - 네트워크 장비: CEF, Cut-through switching
+        
+3. **불필요한 패킷 검사 제거**
+    
+    - L7 검사, 과도한 로깅 비활성화
+        
+    - ACL 최소화, 룰 정렬 최적화
+        
+4. **패킷 크기 일관성 유지**
+    
+    - MTU 미스매치 → fragment 처리 → 처리 지연 증가
+
+
+---
+
+#### 2. 큐잉 지연 (Queueing Delay) 대응 전략
+
+출력 링크가 바쁠 때 패킷이 줄 서서 기다리는 시간
+
+**핵심 원인**
+- 링크 대역폭 부족
+    
+- 트래픽 버스트
+    
+- QoS 미설정
+
+**대응 방법**
+1. **링크 대역폭 증설**
+    
+    - 가장 단순하고 가장 확실
+        
+    - 1G → 10G 업그레이드가 모든 QoS보다 효과적일 때도 많음
+        
+2. **QoS (Quality of Service) 적용**
+    
+    - 우선순위 큐 (Voice, Control Plane)
+        
+    - WFQ, CBWFQ
+        
+3. **트래픽 셰이핑 / 폴리싱**
+    
+    - 송신 측에서 미리 속도 제한
+        
+    - 버스트를 평탄화하여 큐 폭주 방지
+        
+4. **ECMP / 로드 밸런싱**
+    
+    - 한 링크로 몰리는 트래픽 분산
+
+---
+
+#### 3. 전송 지연 (Transmission Delay) 대응 전략
+
+L / R — 패킷을 링크에 “밀어 넣는” 시간
+
+**핵심 원인**
+- 링크 속도(R) 낮음
+    
+- 패킷 크기(L) 큼
+
+**대응 방법**
+1. **링크 대역폭 증가**
+    
+    - R 증가 → 전송 지연 직접 감소
+        
+    - 유일하게 공식에 정면으로 작용
+        
+2. **패킷 크기 최적화**
+    
+    - 불필요하게 큰 패킷 제거
+        
+    - 애플리케이션 레벨에서 chunk size 조절
+        
+3. **압축 사용**
+    
+    - WAN 구간에서 효과적
+        
+    - CPU 자원과 트레이드오프
+        
+4. **병렬 전송**
+    
+    - HTTP/2, HTTP/3, Multiplexing
+        
+    - 단일 큰 패킷보다 여러 스트림
+
+#### 4. 전파 지연 (Propagation Delay) 대응 전략
+
+거리 / 신호 전파 속도  
+물리 법칙 영역
+
+**핵심 원인**
+- 물리적 거리
+    
+- 매체 종류 (광섬유, 구리, 위성)
+
+**대응 방법**
+1. **거리 단축**
+    
+    - 서버를 사용자 가까이 배치
+        
+    - Region, AZ 분산
+        
+2. **CDN 사용**
+    
+    - 콘텐츠를 엣지에 미리 배치
+        
+    - 전파 지연을 구조적으로 제거
+        
+3. **위성 → 지상망 전환**
+    
+    - GEO 위성은 지연 자체가 수백 ms
+        
+    - LEO(Starlink)는 개선되었지만 한계 존재
+        
+4. **프로토콜 최적화**
+    
+    - TCP handshake 최소화
+        
+    - QUIC, 0-RTT
+
+#### 한 장 요약 (현업식 정리)
+
+|지연 종류|본질|실전 대응|
+|---|---|---|
+|처리 지연|CPU 문제|ASIC, 오프로딩|
+|큐잉 지연|혼잡 문제|대역폭, QoS|
+|전송 지연|속도 문제|링크 업그레이드|
+|전파 지연|거리 문제|서버 위치|
+
+#### 참고 근거 (고전이지만 여전히 기준)
+
+- Kurose & Ross, _Computer Networking: A Top-Down Approach_  
+    [https://gaia.cs.umass.edu/kurose_ross/](https://gaia.cs.umass.edu/kurose_ross/)
+    
+- Cisco QoS Design Guide  
+    [https://www.cisco.com/c/en/us/solutions/enterprise/design-zone-quality-of-service/index.html](https://www.cisco.com/c/en/us/solutions/enterprise/design-zone-quality-of-service/index.html)
+    
+- Cloudflare – Network Latency Explained  
+    [https://www.cloudflare.com/learning/performance/glossary/latency/](https://www.cloudflare.com/learning/performance/glossary/latency/)
+
 ### 큐잉과 패킷 손실
 
 **큐잉 발생 조건**:
