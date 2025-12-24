@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "IT/01_가이드/node 여러버전 사용 (윈도우) 가이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "node 여러버전 사용 (윈도우) 가이드"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "IT/01_가이드/node 여러버전 사용 (윈도우) 가이드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 의 개요"
+              "title": "node 여러버전 사용 (윈도우) 가이드 의 개요"
             }
           },
           {
@@ -196,6 +196,7 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
+    "index.md",
     "IT/01_가이드/node 여러버전 사용 (윈도우) 가이드.md",
     "IT/01_가이드/JAVA 여러버전 사용 (윈도우) 가이드.md",
     "IT/01_가이드/옵시디언, GIT 연동.md",
@@ -222,7 +223,6 @@
     "IT/03_개발(프로그래밍)/디자인패턴/TypeScript.md",
     "IT/03_개발(프로그래밍)/디자인패턴/Golang.md",
     "IT/02_컴퓨터과학(CS)/필수 지식.md",
-    "IT/02_컴퓨터과학(CS)/용어집.md",
     "IT/03_개발(프로그래밍)/AI",
     "personal/엔터테인먼트/책/건강",
     "IT/02_컴퓨터과학(CS)/단어집",

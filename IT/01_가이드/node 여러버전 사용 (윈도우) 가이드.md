@@ -16,20 +16,17 @@ C:\Users\user>node -v
 v24.11.1
 ```
 
-
-순서가 중요하다.
-
 1. 프로그램 제거
 
 제어판 → 프로그램 → Node.js 제거
 
 2. 잔존 파일 삭제
 아래 경로가 남아 있으면 수동 삭제
-
+```
 C:\Program Files\nodejs
 C:\Users\%USERNAME%\AppData\Roaming\npm
 C:\Users\%USERNAME%\AppData\Roaming\npm-cache
-
+```
 
 3. 환경 변수 정리
 
@@ -41,8 +38,10 @@ npm 관련 경로
 
 4. 터미널 재시작 후 확인
 
+```
 node -v
 npm -v
+```
 
 
 → 인식되면 아직 덜 지운 상태.
@@ -61,19 +60,19 @@ PS C:\Users\user> nvm -v
 
 ## 3. Node 여러 버전 설치 & 전환
 
-1. 설치
-nvm install 18.20.4
+1. 설치  
+nvm install 18.20.4  
 nvm install 20.15.1
 
-2. 전환
-nvm use 18.20.4
+2. 전환  
+nvm use 18.20.4  
 node -v
 
-nvm use 20.15.1
+nvm use 20.15.1  
 node -v
 
 
-3. 현재 설치된 버전 목록 확인
+3. 현재 설치된 버전 목록 확인  
 nvm list
 
 ## 4. 프로젝트별 Node.js 버전 관리
