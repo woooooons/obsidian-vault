@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/01_가이드/node 여러버전 사용 (윈도우) 가이드.md",
+                "file": "IT/01_가이드/Windows 환경에서 Node.js 다중 버전 관리 (nvm-windows) 가이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "node 여러버전 사용 (윈도우) 가이드"
+              "title": "Windows 환경에서 Node.js 다중 버전 관리 (nvm-windows) 가이드"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/01_가이드/node 여러버전 사용 (윈도우) 가이드.md",
+                "file": "IT/01_가이드/Windows 환경에서 Node.js 다중 버전 관리 (nvm-windows) 가이드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "node 여러버전 사용 (윈도우) 가이드 의 개요"
+              "title": "Windows 환경에서 Node.js 다중 버전 관리 (nvm-windows) 가이드 의 개요"
             }
           },
           {
@@ -197,7 +197,7 @@
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
     "index.md",
-    "IT/01_가이드/node 여러버전 사용 (윈도우) 가이드.md",
+    "IT/01_가이드/Windows 환경에서 Node.js 다중 버전 관리 (nvm-windows) 가이드.md",
     "IT/01_가이드/JAVA 여러버전 사용 (윈도우) 가이드.md",
     "IT/01_가이드/옵시디언, GIT 연동.md",
     "IT/05_유용한 사이트/한국.md",
