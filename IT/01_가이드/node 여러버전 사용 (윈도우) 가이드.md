@@ -71,7 +71,6 @@ node -v
 nvm use 20.15.1  
 node -v
 
-
 3. 현재 설치된 버전 목록 확인  
 nvm list
 
