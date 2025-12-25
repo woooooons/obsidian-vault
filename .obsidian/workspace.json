@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/01_가이드/Windows 환경에서 Node.js 다중 버전 관리 (nvm-windows) 가이드.md",
+                "file": "IT/01_가이드/Node.js 여러버전 사용 (윈도우).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows 환경에서 Node.js 다중 버전 관리 (nvm-windows) 가이드"
+              "title": "Node.js 여러버전 사용 (윈도우)"
             }
           }
         ]
@@ -196,10 +196,12 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
+    "IT/01_가이드/Obsidian + Quartz 블로그 만들기.md",
+    "IT/01_가이드/JAVA 여러버전 사용 (윈도우).md",
+    "IT/01_가이드/git lab + n8n + teams.md",
+    "IT/01_가이드/옵시디언 + GIT.md",
+    "IT/01_가이드/Node.js 여러버전 사용 (윈도우).md",
     "index.md",
-    "IT/01_가이드/Windows 환경에서 Node.js 다중 버전 관리 (nvm-windows) 가이드.md",
-    "IT/01_가이드/JAVA 여러버전 사용 (윈도우) 가이드.md",
-    "IT/01_가이드/옵시디언, GIT 연동.md",
     "IT/05_유용한 사이트/한국.md",
     "IT/02_컴퓨터과학(CS)/데이터베이스/용어집.md",
     "IT/04_인프라·플랫폼/운영체제_실무/리눅스/명령어.md",
@@ -221,8 +223,6 @@
     "IT/03_개발(프로그래밍)/백앤드/현대 애플리케이션 통신 방식.md",
     "IT/03_개발(프로그래밍)/디자인패턴/이론.md",
     "IT/03_개발(프로그래밍)/디자인패턴/TypeScript.md",
-    "IT/03_개발(프로그래밍)/디자인패턴/Golang.md",
-    "IT/02_컴퓨터과학(CS)/필수 지식.md",
     "IT/03_개발(프로그래밍)/AI",
     "personal/엔터테인먼트/책/건강",
     "IT/02_컴퓨터과학(CS)/단어집",

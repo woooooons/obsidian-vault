@@ -1,5 +1,5 @@
 ---
-title: git lab, n8n, teams 연동
+title: git lab + n8n + teams
 date: 2025-12-05
 tags:
   - it

@@ -1,5 +1,5 @@
 ---
-title: 옵시디언, GIT 연동
+title: 옵시디언 + GIT
 date: 2025-12-07
 tags:
   - it

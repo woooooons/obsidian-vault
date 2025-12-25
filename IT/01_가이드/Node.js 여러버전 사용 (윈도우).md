@@ -1,5 +1,5 @@
 ---
-title: Windows 환경에서 Node.js 다중 버전 관리 (nvm-windows) 가이드
+title: Node.js 여러버전 사용 (윈도우)
 date: 2025-12-24
 tags:
   - it
