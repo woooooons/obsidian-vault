@@ -1,5 +1,5 @@
 ---
-title: 플러터 + 안드로이드 sdk
+title: Flutter Android 개발 환경 구축 가이드 (Android Studio 미사용, Windows)
 date: 2025-12-26
 tags:
   - it
