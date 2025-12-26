@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/지역/청도/음식.md",
+                "file": "personal/단어/새로 알게 된 단어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "음식"
+              "title": "새로 알게 된 단어"
             }
           }
         ]
@@ -196,8 +196,16 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
-    "personal/지역/청양/음식.md",
+    "personal/단어/차이.md",
+    "personal/단어/새로 알게 된 단어.md",
+    "personal/엔터테인먼트/책/건강/하루 한 스푼 벌꿀의 기적.md",
+    "personal/엔터테인먼트/애니메이션/판타지.md",
+    "personal/엔터테인먼트/애니메이션/일상.md",
+    "personal/엔터테인먼트/애니메이션/미스터리.md",
+    "personal/엔터테인먼트/애니메이션/다크판타지.md",
+    "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215080907.png",
     "personal/지역/청도/음식.md",
+    "personal/지역/청양/음식.md",
     "personal/지역/진주/음식.md",
     "personal/지역/무주/음식.md",
     "personal/자격증/자격증예정.md",
@@ -216,14 +224,7 @@
     "IT/03_개발(프로그래밍)/백앤드/무제.md",
     "IT/02_컴퓨터과학(CS)/네트워크/패킷스위칭 vs 서킷스위칭.md",
     "IT/02_컴퓨터과학(CS)/네트워크/라우팅.md",
-    "IT/04_인프라·플랫폼/웹서버/Apache/설치.md",
-    "IT/04_인프라·플랫폼/웹서버/Apache/보안.md",
-    "IT/04_인프라·플랫폼/웹서버/Apache/보안설정.md",
     "IT/04_인프라·플랫폼/웹서버/Apache",
-    "IT/04_인프라·플랫폼/메시지/Kafka/Zookeeper 설명.md",
-    "IT/04_인프라·플랫폼/메시지/Kafka/Kafka 학습 가이드.md",
-    "IT/03_개발(프로그래밍)/AI/NVIDIA.md",
-    "IT/03_개발(프로그래밍)/AI/코덱.md",
     "IT/03_개발(프로그래밍)/AI",
     "personal/엔터테인먼트/책/건강",
     "IT/02_컴퓨터과학(CS)/단어집",
@@ -234,7 +235,6 @@
     "personal/엔터테인먼트/드라마",
     "personal/엔터테인먼트/영화",
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215081651.png",
-    "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215080907.png",
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215080556.png",
     "IT/01_가이드/attachments/Pasted image 20251207153703.png",
     "IT/01_가이드/attachments/Pasted image 20251207153618.png",
