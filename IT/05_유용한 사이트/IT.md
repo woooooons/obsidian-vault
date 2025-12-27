@@ -1,0 +1,28 @@
+---
+title: IT
+date: 2025-12-10
+tags:
+  - it
+  - 유용한사이트
+  - IT
+---
+## 학습사이트
+
+[freecodecamp](https://www.freecodecamp.org/news/)  
+[w3schools](https://www.w3schools.com/)  
+[HackTheBox](https://www.hackthebox.com/)  
+[hacker101](https://www.hacker101.com/start-here)  
+[KOCW 모두를 위한 열린 강좌](https://www.kocw.net/home/index.do)  
+[위키독스](https://wikidocs.net/)  
+[모두의코드](https://modoocode.com/)  
+[인프런](https://www.inflearn.com/roadmaps)  
+[K-MOOC](https://www.kmooc.kr/)  
+[나라배움터](https://e-learning.nhi.go.kr/)  
+
+## 가이드북
+
+[프리코드캠프 플러터 핸드북](https://www.freecodecamp.org/news/theming-and-customization-in-flutter-a-handbook-for-developers/)  
+[프리코드캠프 바이브 코딩 가이드](https://www.freecodecamp.org/news/how-to-use-vibe-coding-effectively-as-a-dev/)  
+
+## TOOL
+[인쇄 캘린더](https://7calendar.com/kr/2026-january-monthly/p-1/)
