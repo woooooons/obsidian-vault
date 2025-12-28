@@ -9,6 +9,7 @@ tags:
 
 ## STEP 1: 구글 계정/GA4 속성 생성
 https://marketingplatform.google.com/about/analytics/
+https://search.google.com/search-console/performance/
 
 [Github blog를 Google 검색 엔진에 노출시키기](https://burningfalls.github.io/blog/google-search-console/)
 [Google Analytics 등록하는법](https://hel-p.tistory.com/57#%EA%B5%AC%EA%B8%80%20%EA%B3%84%EC%A0%95%20%EB%93%B1%EB%A1%9D-1)
