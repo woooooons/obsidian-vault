@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/01_가이드/obsidian/Google Analytics + Google Search 등록.md",
+                "file": "IT/02_컴퓨터과학(CS)/운영체제_이론/CPU 코어·스레드·SMT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Analytics + Google Search 등록"
+              "title": "CPU 코어·스레드·SMT"
             }
           }
         ]
@@ -196,16 +196,24 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
+    "IT/02_컴퓨터과학(CS)/데이터베이스/용어집.md",
+    "IT/02_컴퓨터과학(CS)/운영체제_이론/CPU 코어·스레드·SMT.md",
+    "IT/02_컴퓨터과학(CS)/네트워크/라우팅.md",
+    "IT/02_컴퓨터과학(CS)/네트워크/패킷스위칭 vs 서킷스위칭.md",
+    "IT/03_개발(프로그래밍)/코어/NVIDIA.md",
+    "IT/03_개발(프로그래밍)/코어/무제.md",
+    "IT/03_개발(프로그래밍)/코어/코덱.md",
+    "IT/03_개발(프로그래밍)/코어/이미지 파일 형식.md",
+    "IT/03_개발(프로그래밍)/코어/딥러닝 연산 정밀도(Precision).md",
+    "IT/01_가이드/obsidian/Google Analytics + Google Search 등록.md",
     "IT/04_인프라·플랫폼/웹서버/apache/설치.md",
     "IT/04_인프라·플랫폼/웹서버/apache/보안.md",
     "IT/04_인프라·플랫폼/메시지/kafka/zookeeper 설명.md",
     "IT/04_인프라·플랫폼/메시지/kafka/kafka 학습 가이드.md",
     "IT/04_인프라·플랫폼/개발 운영/git/참고링크.md",
     "IT/04_인프라·플랫폼/개발 운영/git/명령어.md",
-    "IT/02_컴퓨터과학(CS)/데이터베이스/용어집.md",
     "IT/02_컴퓨터과학(CS)/네트워크/ip.md",
     "IT/01_가이드/ai/ChatGPT로 어떤 기술이든 배우게 만드는 방법.md",
-    "IT/01_가이드/obsidian/Google Analytics + Google Search 등록.md",
     "IT/01_가이드/n8n",
     "IT/01_가이드/obsidian/Obsidian + Git.md",
     "IT/01_가이드/obsidian/Obsidian + Quartz 블로그 만들기.md",
@@ -219,15 +227,7 @@
     "IT/01_가이드/obsidian",
     "IT/01_가이드/attachments/Pasted image 20251228151637.png",
     "IT/01_가이드/Obsidian + Quartz 블로그  Google Analytics에 등록.md",
-    "IT/01_가이드/Obsidian + Quartz 블로그 Google Analytics 등록하기.md",
-    "IT/01_가이드/개발환경/Flutter Android 개발 환경 구축 가이드 (Android Studio 미사용, Windows).md",
-    "personal/단어/차이.md",
-    "personal/지역/무주/음식.md",
-    "personal/지역/진주/음식.md",
-    "personal/지역/청도/음식.md",
-    "personal/지역/청양/음식.md",
     "Pasted image 20251227175057.png",
-    "IT/03_개발(프로그래밍)/백앤드/Language/Go/참고링크.md",
     "IT/04_인프라·플랫폼/개발 운영/gitlab",
     "IT/04_인프라·플랫폼/개발 운영/github",
     "IT/04_인프라·플랫폼/개발 운영/git",
