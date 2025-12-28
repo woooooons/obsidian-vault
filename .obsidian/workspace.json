@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19519cf13aa89746",
+  "active": "fd6234212c779a65",
   "lastOpenFiles": [
     "IT/01_가이드/Obsidian/Obsidian + Git.md",
     "IT/01_가이드/Obsidian/Google Analytics + Google Search 등록.md",
