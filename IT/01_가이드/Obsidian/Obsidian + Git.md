@@ -1,5 +1,5 @@
 ---
-title: 옵시디언 + GIT
+title: Obsidian + Git
 date: 2025-12-07
 tags:
   - it
