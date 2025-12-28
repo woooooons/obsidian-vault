@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "IT/01_가이드/Obsidian + Quartz 블로그 Google Analytics + Google Search 등록.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Obsidian + Quartz 블로그 Google Analytics + Google Search 등록"
             }
           }
         ]
@@ -196,8 +196,15 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
-    "personal/단어/차이.md",
+    "IT/01_가이드/attachments/Pasted image 20251228151637.png",
+    "IT/01_가이드/Obsidian + Quartz 블로그 Google Analytics + Google Search 등록.md",
+    "IT/01_가이드/Node.js 여러버전 사용 (윈도우).md",
+    "IT/01_가이드/Obsidian + Quartz 블로그 만들기.md",
+    "IT/01_가이드/Obsidian + Quartz 블로그  Google Analytics에 등록.md",
+    "IT/01_가이드/Obsidian + Quartz 블로그 Google Analytics 등록하기.md",
+    "IT/01_가이드/Flutter Android 개발 환경 구축 가이드 (Android Studio 미사용, Windows).md",
     "index.md",
+    "personal/단어/차이.md",
     "personal/지역/무주/음식.md",
     "personal/지역/진주/음식.md",
     "personal/지역/청도/음식.md",
@@ -212,22 +219,15 @@
     "IT/04_인프라·플랫폼/개발 운영/Git",
     "IT/04_인프라·플랫폼/개발 운영",
     "IT/01_가이드/ChatGPT로 어떤 기술이든 배우게 만드는 방법.md",
-    "IT/01_가이드/Obsidian + Quartz 블로그 만들기.md",
-    "IT/01_가이드/Node.js 여러버전 사용 (윈도우).md",
     "IT/01_가이드/JAVA 여러버전 사용 (윈도우).md",
     "IT/01_가이드/git lab + n8n + teams.md",
-    "IT/01_가이드/Flutter Android 개발 환경 구축 가이드 (Android Studio 미사용, Windows).md",
     "IT/03_개발(프로그래밍)/디자인패턴/Golang.md",
     "IT/03_개발(프로그래밍)/디자인패턴/이론.md",
     "IT/03_개발(프로그래밍)/코어/NVIDIA.md",
     "IT/03_개발(프로그래밍)/코어/코덱.md",
     "IT/03_개발(프로그래밍)/코어/딥러닝 연산 정밀도(Precision).md",
     "IT/03_개발(프로그래밍)/백앤드/로드맵.md",
-    "IT/03_개발(프로그래밍)/백앤드/현대 애플리케이션 통신 방식.md",
     "IT/01_가이드/attachments/스크린샷 2025-11-30 173618.png",
-    "personal/자격증/자격증예정.md",
-    "personal/자격증/자격증목록.md",
-    "personal/단어/새로 알게 된 단어.md",
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215080907.png",
     "personal/지역/청양",
     "IT/04_인프라·플랫폼/웹서버/Apache",
@@ -240,7 +240,6 @@
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215080556.png",
     "IT/01_가이드/attachments/Pasted image 20251207153703.png",
     "IT/01_가이드/attachments/Pasted image 20251207153618.png",
-    "IT/01_가이드/attachments/Pasted image 20251207153450.png",
-    "IT/01_가이드/attachments/Pasted image 20251207153412.png"
+    "IT/01_가이드/attachments/Pasted image 20251207153450.png"
   ]
 }
