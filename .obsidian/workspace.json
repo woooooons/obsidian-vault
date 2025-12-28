@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/04_인프라·플랫폼/개발 운영/Git/명령어.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "명령어"
+              "title": "index"
             }
           }
         ]
@@ -194,11 +194,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ece6e30dd88bd5a7",
+  "active": "19519cf13aa89746",
   "lastOpenFiles": [
+    "personal/단어/차이.md",
+    "index.md",
+    "personal/지역/무주/음식.md",
+    "personal/지역/진주/음식.md",
+    "personal/지역/청도/음식.md",
+    "personal/지역/청양/음식.md",
+    "IT/04_인프라·플랫폼/개발 운영/Git/명령어.md",
     "Pasted image 20251227175057.png",
     "IT/04_인프라·플랫폼/개발 운영/Git/참고링크.md",
-    "IT/04_인프라·플랫폼/개발 운영/Git/명령어.md",
     "IT/03_개발(프로그래밍)/백앤드/Language/Go/참고링크.md",
     "IT/01_가이드/옵시디언 + GIT.md",
     "IT/04_인프라·플랫폼/개발 운영/GitLab",
@@ -219,14 +225,9 @@
     "IT/03_개발(프로그래밍)/백앤드/로드맵.md",
     "IT/03_개발(프로그래밍)/백앤드/현대 애플리케이션 통신 방식.md",
     "IT/01_가이드/attachments/스크린샷 2025-11-30 173618.png",
-    "personal/지역/진주/음식.md",
-    "personal/지역/청도/음식.md",
     "personal/자격증/자격증예정.md",
     "personal/자격증/자격증목록.md",
-    "personal/단어/차이.md",
     "personal/단어/새로 알게 된 단어.md",
-    "IT/05_유용한 사이트/IT.md",
-    "IT/05_유용한 사이트/한국.md",
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215080907.png",
     "personal/지역/청양",
     "IT/04_인프라·플랫폼/웹서버/Apache",
@@ -240,7 +241,6 @@
     "IT/01_가이드/attachments/Pasted image 20251207153703.png",
     "IT/01_가이드/attachments/Pasted image 20251207153618.png",
     "IT/01_가이드/attachments/Pasted image 20251207153450.png",
-    "IT/01_가이드/attachments/Pasted image 20251207153412.png",
-    "IT/01_가이드/attachments/Pasted image 20251207153338.png"
+    "IT/01_가이드/attachments/Pasted image 20251207153412.png"
   ]
 }
