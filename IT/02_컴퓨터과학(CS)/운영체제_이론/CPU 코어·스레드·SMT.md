@@ -1,5 +1,5 @@
 ---
-title: 패킷스위칭 vs 서킷스위칭
+title: CPU 코어·스레드·SMT
 date: 2025-12-11
 tags:
   - it
