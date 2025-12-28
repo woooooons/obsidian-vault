@@ -1,5 +1,5 @@
 ---
-title: Zookeeper 설명
+title: zookeeper 설명
 date: 2025-12-07
 tags:
   - it
