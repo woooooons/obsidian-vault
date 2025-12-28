@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/01_가이드/Ai/ChatGPT로 어떤 기술이든 배우게 만드는 방법.md",
+                "file": "IT/01_가이드/Obsidian/Google Analytics + Google Search 등록.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ChatGPT로 어떤 기술이든 배우게 만드는 방법"
+              "title": "Google Analytics + Google Search 등록"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/01_가이드/Windows 환경에서 Node.js 다중 버전 관리 (nvm-windows) 가이드.md",
+                "file": "IT/01_가이드/Obsidian/Google Analytics + Google Search 등록.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Windows 환경에서 Node.js 다중 버전 관리 (nvm-windows) 가이드 의 개요"
+              "title": "Google Analytics + Google Search 등록 의 개요"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,48 +194,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ece6e30dd88bd5a7",
+  "active": "19519cf13aa89746",
   "lastOpenFiles": [
+    "IT/01_가이드/Obsidian/Obsidian + Git.md",
+    "IT/01_가이드/Obsidian/Google Analytics + Google Search 등록.md",
+    "IT/01_가이드/Obsidian/Obsidian + Quartz 블로그 만들기.md",
+    "IT/01_가이드/Obsidian/Obsidian + Quartz 블로그.md",
+    "IT/01_가이드/git lab + n8n + teams.md",
+    "IT/04_인프라·플랫폼/개발 운영/Git/참고링크.md",
+    "IT/04_인프라·플랫폼/개발 운영/Git/명령어.md",
+    "index.md",
+    "IT/05_유용한 사이트/IT.md",
+    "IT/01_가이드/Ai/ChatGPT로 어떤 기술이든 배우게 만드는 방법.md",
     "IT/01_가이드/개발환경",
     "IT/01_가이드/Ai",
-    "IT/01_가이드/Obsidian/Obsidian + Git.md",
-    "IT/01_가이드/Obsidian/Obsidian + Quartz 블로그 만들기.md",
-    "IT/01_가이드/Obsidian/Obsidian + Quartz 블로그 Google Analytics + Google Search 등록.md",
     "IT/01_가이드/개발환경/Node.js 여러버전 사용 (윈도우).md",
     "IT/01_가이드/Obsidian",
     "IT/01_가이드/attachments/Pasted image 20251228151637.png",
     "IT/01_가이드/Obsidian + Quartz 블로그  Google Analytics에 등록.md",
     "IT/01_가이드/Obsidian + Quartz 블로그 Google Analytics 등록하기.md",
     "IT/01_가이드/개발환경/Flutter Android 개발 환경 구축 가이드 (Android Studio 미사용, Windows).md",
-    "index.md",
     "personal/단어/차이.md",
     "personal/지역/무주/음식.md",
     "personal/지역/진주/음식.md",
     "personal/지역/청도/음식.md",
     "personal/지역/청양/음식.md",
-    "IT/04_인프라·플랫폼/개발 운영/Git/명령어.md",
     "Pasted image 20251227175057.png",
-    "IT/04_인프라·플랫폼/개발 운영/Git/참고링크.md",
     "IT/03_개발(프로그래밍)/백앤드/Language/Go/참고링크.md",
     "IT/04_인프라·플랫폼/개발 운영/GitLab",
     "IT/04_인프라·플랫폼/개발 운영/GitHub",
     "IT/04_인프라·플랫폼/개발 운영/Git",
     "IT/04_인프라·플랫폼/개발 운영",
-    "IT/01_가이드/Ai/ChatGPT로 어떤 기술이든 배우게 만드는 방법.md",
     "IT/01_가이드/개발환경/JAVA 여러버전 사용 (윈도우).md",
-    "IT/01_가이드/git lab + n8n + teams.md",
     "IT/03_개발(프로그래밍)/디자인패턴/Golang.md",
     "IT/03_개발(프로그래밍)/디자인패턴/이론.md",
     "IT/03_개발(프로그래밍)/코어/NVIDIA.md",
     "IT/03_개발(프로그래밍)/코어/코덱.md",
     "IT/03_개발(프로그래밍)/코어/딥러닝 연산 정밀도(Precision).md",
-    "IT/03_개발(프로그래밍)/백앤드/로드맵.md",
     "IT/01_가이드/attachments/스크린샷 2025-11-30 173618.png",
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215080907.png",
     "personal/지역/청양",
     "IT/04_인프라·플랫폼/웹서버/Apache",
     "IT/03_개발(프로그래밍)/코어",
-    "personal/엔터테인먼트/책/건강",
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251216080711.png",
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215081651.png",
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215080556.png",
