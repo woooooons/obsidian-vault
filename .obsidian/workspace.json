@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/02_컴퓨터과학(CS)/운영체제_이론/CPU 코어·스레드·SMT.md",
+                "file": "IT/03_개발(프로그래밍)/백앤드/Framework/NestJS/참고링크.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU 코어·스레드·SMT"
+              "title": "참고링크"
             }
           }
         ]
@@ -197,7 +197,12 @@
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
     "IT/01_가이드/obsidian/Google Analytics + Google Search 등록.md",
+    "IT/01_가이드/obsidian/Obsidian + Git.md",
+    "IT/03_개발(프로그래밍)/백앤드/Framework/NestJS/참고링크.md",
+    "IT/03_개발(프로그래밍)/백앤드/Language/Go/참고링크.md",
     "IT/02_컴퓨터과학(CS)/운영체제_이론/CPU 코어·스레드·SMT.md",
+    "IT/03_개발(프로그래밍)/백앤드/Framework/NestJS",
+    "IT/03_개발(프로그래밍)/백앤드/Framework",
     "IT/02_컴퓨터과학(CS)/데이터베이스/용어집.md",
     "IT/02_컴퓨터과학(CS)/네트워크/라우팅.md",
     "IT/02_컴퓨터과학(CS)/네트워크/패킷스위칭 vs 서킷스위칭.md",
@@ -215,7 +220,6 @@
     "IT/02_컴퓨터과학(CS)/네트워크/ip.md",
     "IT/01_가이드/ai/ChatGPT로 어떤 기술이든 배우게 만드는 방법.md",
     "IT/01_가이드/n8n",
-    "IT/01_가이드/obsidian/Obsidian + Git.md",
     "IT/01_가이드/obsidian/Obsidian + Quartz 블로그 만들기.md",
     "IT/01_가이드/Obsidian/Obsidian + Quartz 블로그.md",
     "IT/01_가이드/n8n/git lab + n8n + teams.md",
@@ -223,10 +227,8 @@
     "IT/05_유용한 사이트/IT.md",
     "IT/01_가이드/개발환경",
     "IT/01_가이드/ai",
-    "IT/01_가이드/개발환경/Node.js 여러버전 사용 (윈도우).md",
     "IT/01_가이드/obsidian",
     "IT/01_가이드/attachments/Pasted image 20251228151637.png",
-    "IT/01_가이드/Obsidian + Quartz 블로그  Google Analytics에 등록.md",
     "Pasted image 20251227175057.png",
     "IT/04_인프라·플랫폼/개발 운영/gitlab",
     "IT/04_인프라·플랫폼/개발 운영/github",
@@ -234,8 +236,6 @@
     "IT/04_인프라·플랫폼/개발 운영",
     "IT/01_가이드/attachments/스크린샷 2025-11-30 173618.png",
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215080907.png",
-    "personal/지역/청양",
-    "IT/04_인프라·플랫폼/웹서버/apache",
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251216080711.png",
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215081651.png",
     "personal/엔터테인먼트/애니메이션/attachments/Pasted image 20251215080556.png",
