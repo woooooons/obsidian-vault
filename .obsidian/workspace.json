@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/02_컴퓨터과학(CS)/보안/암호화(현대).md",
+                "file": "IT/유용한 사이트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "암호화(현대)"
+              "title": "유용한 사이트"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/02_컴퓨터과학(CS)/보안/참고.md",
+                "file": "IT/유용한 사이트.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "참고 의 개요"
+              "title": "유용한 사이트 의 개요"
             }
           },
           {
@@ -196,6 +196,15 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
+    "IT/04_인프라·플랫폼/메시지/kafka/면접 질문 및 답.md",
+    "IT/04_인프라·플랫폼/메시지/kafka/zookeeper 설명.md",
+    "IT/04_인프라·플랫폼/메시지/kafka/kafka 학습 가이드.md",
+    "IT/04_인프라·플랫폼/메시지/kafka/참고.md",
+    "IT/01_가이드/ai/gemini/개발자 역량 강화와 로드맵.md",
+    "IT/01_가이드/ai/chatgpt/ChatGPT로 어떤 기술이든 배우게 만드는 방법.md",
+    "IT/01_가이드/ai/chatgpt",
+    "IT/01_가이드/ai/gemini",
+    "IT/02_컴퓨터과학(CS)/보안/암호화(현대).md",
     "IT/02_컴퓨터과학(CS)/보안/참고.md",
     "personal/지역/무주/음식.md",
     "personal/지역/진주/음식.md",
@@ -215,13 +224,6 @@
     "IT/03_개발(프로그래밍)/클린코드/이론.md",
     "IT/03_개발(프로그래밍)/코어/NVIDIA.md",
     "IT/03_개발(프로그래밍)/코어/코덱.md",
-    "IT/03_개발(프로그래밍)/코어/딥러닝 연산 정밀도(Precision).md",
-    "IT/03_개발(프로그래밍)/백앤드/로드맵.md",
-    "IT/03_개발(프로그래밍)/백앤드/현대 애플리케이션 통신 방식.md",
-    "IT/03_개발(프로그래밍)/백앤드/Language/Go/참고.md",
-    "IT/03_개발(프로그래밍)/백앤드/Framework/NestJS/참고.md",
-    "personal/건강/영양제/오메가3.md",
-    "personal/건강/영양제/칼슘.md",
     "IT/02_컴퓨터과학(CS)/보안",
     "IT/03_개발(프로그래밍)/백앤드/무제",
     "personal/건강/영양제",
@@ -230,8 +232,6 @@
     "IT/03_개발(프로그래밍)/백앤드/Framework",
     "IT/01_가이드/n8n",
     "IT/01_가이드/개발환경",
-    "IT/01_가이드/ai",
-    "IT/01_가이드/obsidian",
     "IT/01_가이드/attachments/Pasted image 20251228151637.png",
     "Pasted image 20251227175057.png",
     "IT/01_가이드/attachments/스크린샷 2025-11-30 173618.png",
