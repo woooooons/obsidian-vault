@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/01_가이드/n8n/n8n + openweather.md",
+                "file": "IT/04_인프라·플랫폼/컨테이너/도커/명령어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "n8n + openweather"
+              "title": "명령어"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
+    "IT/04_인프라·플랫폼/컨테이너/도커/도커파일.md",
+    "IT/04_인프라·플랫폼/컨테이너/도커/명령어.md",
+    "IT/01_가이드/n8n/n8n + openweather.md",
     "IT/01_가이드/n8n/attachments/Pasted image 20260112121409.png",
     "IT/01_가이드/n8n/attachments/Pasted image 20260112121255.png",
     "IT/01_가이드/n8n/attachments/Pasted image 20260112121212.png",
@@ -205,14 +208,11 @@
     "IT/01_가이드/n8n/attachments/Pasted image 20260112121006.png",
     "IT/01_가이드/n8n/attachments/Pasted image 20260112120841.png",
     "IT/01_가이드/n8n/git lab + n8n + teams.md",
-    "IT/01_가이드/n8n/n8n + openweather.md",
     "IT/01_가이드/n8n/attachments/Pasted image 20260112120437.png",
     "IT/01_가이드/n8n/attachments",
     "IT/01_가이드/obsidian/Obsidian + Quartz 블로그 만들기.md",
     "2026-12-05.md",
     "IT/04_인프라·플랫폼/개발 운영/git/명령어.md",
-    "IT/04_인프라·플랫폼/컨테이너/도커/명령어.md",
-    "IT/04_인프라·플랫폼/컨테이너/도커/도커파일.md",
     "IT/04_인프라·플랫폼/컨테이너/도커/도커볼륨 vs 도커마운트.md",
     "IT/04_인프라·플랫폼/운영체제_실무/윈도우/명령어/taskkill.md",
     "IT/04_인프라·플랫폼/운영체제_실무/윈도우/명령어/netstat.md",
@@ -240,7 +240,6 @@
     "IT/01_가이드/ai/chatgpt",
     "IT/02_컴퓨터과학(CS)/보안/참고.md",
     "personal/지역/무주/음식.md",
-    "IT/01_가이드/attachments/Pasted image 20251228151637.png",
-    "Pasted image 20251227175057.png"
+    "IT/01_가이드/attachments/Pasted image 20251228151637.png"
   ]
 }
