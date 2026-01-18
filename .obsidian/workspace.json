@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/04_인프라·플랫폼/컨테이너/도커/명령어.md",
+                "file": "IT/04_인프라·플랫폼/운영체제_실무/리눅스/패키지/vlock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "명령어"
+              "title": "vlock"
             }
           }
         ]
@@ -196,8 +196,11 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
-    "IT/04_인프라·플랫폼/컨테이너/도커/도커파일.md",
+    "IT/04_인프라·플랫폼/운영체제_실무/리눅스/패키지",
+    "IT/04_인프라·플랫폼/운영체제_실무/리눅스/명령어.md",
+    "IT/04_인프라·플랫폼/운영체제_실무/리눅스/패키지/vlock.md",
     "IT/04_인프라·플랫폼/컨테이너/도커/명령어.md",
+    "IT/04_인프라·플랫폼/컨테이너/도커/도커파일.md",
     "IT/01_가이드/n8n/n8n + openweather.md",
     "IT/01_가이드/n8n/attachments/Pasted image 20260112121409.png",
     "IT/01_가이드/n8n/attachments/Pasted image 20260112121255.png",
@@ -216,7 +219,6 @@
     "IT/04_인프라·플랫폼/컨테이너/도커/도커볼륨 vs 도커마운트.md",
     "IT/04_인프라·플랫폼/운영체제_실무/윈도우/명령어/taskkill.md",
     "IT/04_인프라·플랫폼/운영체제_실무/윈도우/명령어/netstat.md",
-    "IT/04_인프라·플랫폼/운영체제_실무/리눅스/명령어.md",
     "IT/04_인프라·플랫폼/운영체제_실무/윈도우/명령어",
     "IT/04_인프라·플랫폼/가상화/vmware/ESXi/storage/provisioning/씬 프로비저닝 vs 씩 프로비저닝.md",
     "IT/03_개발(프로그래밍)/코어/이미지 파일 형식.md",
@@ -239,7 +241,6 @@
     "IT/01_가이드/ai/chatgpt/ChatGPT로 어떤 기술이든 배우게 만드는 방법.md",
     "IT/01_가이드/ai/chatgpt",
     "IT/02_컴퓨터과학(CS)/보안/참고.md",
-    "personal/지역/무주/음식.md",
     "IT/01_가이드/attachments/Pasted image 20251228151637.png"
   ]
 }
