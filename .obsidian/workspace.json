@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/04_인프라·플랫폼/운영체제_실무/리눅스/패키지/vlock.md",
+                "file": "IT/03_개발(프로그래밍)/기타/버전관리/Semantic Versioning (SemVer) 규약.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vlock"
+              "title": "Semantic Versioning (SemVer) 규약"
             }
           }
         ]
@@ -196,9 +196,13 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
+    "IT/04_인프라·플랫폼/운영체제_실무/리눅스/패키지/vlock.md",
+    "IT/03_개발(프로그래밍)/기타/버전관리/Semantic Versioning (SemVer) 규약.md",
+    "IT/03_개발(프로그래밍)/기타/버전관리",
+    "IT/03_개발(프로그래밍)/기타",
+    "IT/04_인프라·플랫폼/운영체제_실무/리눅스/패키지/무제.md",
     "IT/04_인프라·플랫폼/운영체제_실무/리눅스/패키지",
     "IT/04_인프라·플랫폼/운영체제_실무/리눅스/명령어.md",
-    "IT/04_인프라·플랫폼/운영체제_실무/리눅스/패키지/vlock.md",
     "IT/04_인프라·플랫폼/컨테이너/도커/명령어.md",
     "IT/04_인프라·플랫폼/컨테이너/도커/도커파일.md",
     "IT/01_가이드/n8n/n8n + openweather.md",
@@ -228,8 +232,6 @@
     "IT/04_인프라·플랫폼/가상화/vmware/vCenter",
     "IT/04_인프라·플랫폼/가상화/aws",
     "IT/04_인프라·플랫폼/가상화/vmware/ESXi",
-    "IT/04_인프라·플랫폼/가상화/vmware",
-    "IT/04_인프라·플랫폼/가상화",
     "IT/03_개발(프로그래밍)/백앤드/현대 애플리케이션 통신 방식.md",
     "IT/02_컴퓨터과학(CS)/보안/암호화(현대).md",
     "IT/유용한 사이트.md",
@@ -239,8 +241,6 @@
     "IT/04_인프라·플랫폼/메시지/kafka/참고.md",
     "IT/01_가이드/ai/gemini/개발자 역량 강화와 로드맵.md",
     "IT/01_가이드/ai/chatgpt/ChatGPT로 어떤 기술이든 배우게 만드는 방법.md",
-    "IT/01_가이드/ai/chatgpt",
-    "IT/02_컴퓨터과학(CS)/보안/참고.md",
     "IT/01_가이드/attachments/Pasted image 20251228151637.png"
   ]
 }
