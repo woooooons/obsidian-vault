@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/지역/대구/음식.md",
+                "file": "IT/유요한 프로그램.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "음식"
+              "title": "유요한 프로그램"
             }
           }
         ]
@@ -196,9 +196,13 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
+    "IT/유용한 사이트.md",
+    "IT/유요한 프로그램.md",
+    "IT/attachments/Pasted image 20260123094440.png",
+    "IT/attachments",
+    "personal/지역/대구/음식.md",
     "personal/지역/진주/음식.md",
     "personal/지역/무주/음식.md",
-    "personal/지역/대구/음식.md",
     "personal/지역/청도/음식.md",
     "personal/지역/청양/음식.md",
     "index.md",
@@ -234,13 +238,8 @@
     "IT/04_인프라·플랫폼/운영체제_실무/윈도우/명령어",
     "IT/04_인프라·플랫폼/가상화/vmware/ESXi/storage/provisioning/씬 프로비저닝 vs 씩 프로비저닝.md",
     "IT/03_개발(프로그래밍)/코어/이미지 파일 형식.md",
-    "IT/02_컴퓨터과학(CS)/필수 지식.md",
     "IT/04_인프라·플랫폼/가상화/vmware/ESXi/storage/provisioning",
     "IT/04_인프라·플랫폼/가상화/vmware/ESXi/storage",
-    "IT/04_인프라·플랫폼/가상화/vmware/vCenter",
-    "IT/04_인프라·플랫폼/가상화/aws",
-    "IT/03_개발(프로그래밍)/백앤드/현대 애플리케이션 통신 방식.md",
-    "IT/02_컴퓨터과학(CS)/보안/암호화(현대).md",
-    "IT/01_가이드/attachments/Pasted image 20251228151637.png"
+    "IT/04_인프라·플랫폼/가상화/vmware/vCenter"
   ]
 }
