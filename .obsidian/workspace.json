@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/유요한 프로그램.md",
+                "file": "IT/03_개발(프로그래밍)/백앤드/웹 인증 및 저장소.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "유요한 프로그램"
+              "title": "웹 인증 및 저장소"
             }
           }
         ]
@@ -196,8 +196,17 @@
   },
   "active": "19519cf13aa89746",
   "lastOpenFiles": [
-    "IT/유용한 사이트.md",
+    "personal/건강/영양제/마그네슘.md",
+    "personal/건강/영양제/오메가3.md",
+    "personal/건강/영양제/종합비타민.md",
+    "personal/건강/영양제/칼슘.md",
+    "IT/03_개발(프로그래밍)/백앤드/웹 인증 및 저장소.md",
+    "IT/03_개발(프로그래밍)/백앤드/현대 애플리케이션 통신 방식.md",
+    "IT/03_개발(프로그래밍)/기타/버전관리/Semantic Versioning (SemVer) 규약.md",
+    "IT/04_인프라·플랫폼/개발 운영/git/참고.md",
+    "IT/04_인프라·플랫폼/개발 운영/git/명령어.md",
     "IT/유요한 프로그램.md",
+    "IT/유용한 사이트.md",
     "IT/attachments/Pasted image 20260123094440.png",
     "IT/attachments",
     "personal/지역/대구/음식.md",
@@ -207,7 +216,6 @@
     "personal/지역/청양/음식.md",
     "index.md",
     "2025-12-06.md",
-    "IT/03_개발(프로그래밍)/기타/버전관리/Semantic Versioning (SemVer) 규약.md",
     "personal/지역/대구",
     "IT/04_인프라·플랫폼/운영체제_실무/리눅스/패키지/vlock.md",
     "IT/03_개발(프로그래밍)/기타/버전관리",
@@ -230,14 +238,7 @@
     "IT/01_가이드/n8n/attachments/Pasted image 20260112120437.png",
     "IT/01_가이드/n8n/attachments",
     "IT/01_가이드/obsidian/Obsidian + Quartz 블로그 만들기.md",
-    "2026-12-05.md",
-    "IT/04_인프라·플랫폼/개발 운영/git/명령어.md",
-    "IT/04_인프라·플랫폼/컨테이너/도커/도커볼륨 vs 도커마운트.md",
-    "IT/04_인프라·플랫폼/운영체제_실무/윈도우/명령어/taskkill.md",
-    "IT/04_인프라·플랫폼/운영체제_실무/윈도우/명령어/netstat.md",
     "IT/04_인프라·플랫폼/운영체제_실무/윈도우/명령어",
-    "IT/04_인프라·플랫폼/가상화/vmware/ESXi/storage/provisioning/씬 프로비저닝 vs 씩 프로비저닝.md",
-    "IT/03_개발(프로그래밍)/코어/이미지 파일 형식.md",
     "IT/04_인프라·플랫폼/가상화/vmware/ESXi/storage/provisioning",
     "IT/04_인프라·플랫폼/가상화/vmware/ESXi/storage",
     "IT/04_인프라·플랫폼/가상화/vmware/vCenter"
